@@ -1,0 +1,6 @@
+/.idea/
+/vendor/
+/files/*
+!/files/README.md
+/cache/*
+!/cache/README.md
